@@ -1,0 +1,26 @@
+body {
+    background-color: #c9d2d3; /* Light grey background color */
+}
+
+#map {
+    width: 100%; /* Make the map fill the whole breadth of the screen */
+    border: 0.5px solid #000000; /* Add a 0.5px solid black border */
+    height: 500px; /* Set the height of the map */
+}
+
+
+.card {
+    border-radius: 10px; /* Rounded corners */
+    background-color: rgb(235, 240, 246); /* Grey background color */
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1); /* White shadow */
+    color: #0f0e0e; /* Black font color */
+}
+
+.card-body {
+    padding: 1.25rem; /* Add some padding inside the card body */
+}
+
+h1 {
+    font-style: Helvetica; /* Make the text italic */
+    text-shadow: 2px 2px 4px rgba(68, 67, 67, 0.5); /* Add a shadow effect */
+}
